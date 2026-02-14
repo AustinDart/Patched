@@ -1,0 +1,5 @@
+Copyright Austin Dart 2026.
+All Rights Reserved.
+
+Patched is made in Godot, an engine licensed under the MIT license.
+https://godotengine.org/license/
